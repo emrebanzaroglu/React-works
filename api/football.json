@@ -1,0 +1,240 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "teamId": 1,
+      "playerName": "Mauro Icardi",     
+      "image":"https://img.a.transfermarkt.technology/portrait/header/68863-1671105169.png?lm=1",
+      "goal":21
+    
+    },
+    {
+      "id": 2,
+      "teamId": 1,
+      "playerName": "Kerem Aktürkoğlu",     
+      "image":"https://img.a.transfermarkt.technology/portrait/header/382528-1671102813.png?lm=1",
+      "goal":9
+    
+    },
+    {
+      "id": 3,
+      "teamId": 1,
+      "playerName": "Bafetimbi Gomis",
+      "image": "https://img.a.transfermarkt.technology/portrait/header/22388-1671109775.png?lm=1",
+      "goal": 8
+    },
+    {
+      "id": 4,
+      "teamId": 1,
+      "playerName": "Dries Mertens",
+      "image":"https://img.a.transfermarkt.technology/portrait/header/56416-1671109411.png?lm=1",
+      "goal":6
+    },
+    {
+      "id": 5,
+      "teamId": 2,
+      "playerName": "Enner Valencia",
+      "image":"https://img.a.transfermarkt.technology/portrait/header/139503-1665590120.png?lm=1",
+      "goal":28
+    },
+    {
+      "id": 6,
+      "teamId": 2,
+      "playerName": "Michy Batshuayi",
+      "image":"https://img.a.transfermarkt.technology/portrait/header/179184-1665590459.png?lm=1",
+      "goal":12
+    },
+    {
+      "id": 7,
+      "teamId": 2,
+      "playerName": "Diego Rossi",
+      "image":"https://img.a.transfermarkt.technology/portrait/header/317454-1665591676.png?lm=1",
+      "goal":4
+    },
+    {
+      "id": 8,
+      "teamId": 2,
+      "playerName": "Arda Güler",
+      "image":"https://img.a.transfermarkt.technology/portrait/header/861410-1665588736.png?lm=1",
+      "goal":4
+    },
+    {
+      "id": 9,
+      "teamId": 3,
+      "playerName": "Cenk Tosun",
+      "image":"https://img.a.transfermarkt.technology/portrait/header/45671-1666363106.png?lm=1",
+      "goal":14
+    },
+    {
+      "id": 10,
+      "teamId": 3,
+      "playerName": "Vincent Aboubakar",
+      "image":"https://img.a.transfermarkt.technology/portrait/header/147487-1674477789.png?lm=1",
+      "goal":12
+    },
+    {
+      "id": 11,
+      "teamId": 3,
+      "playerName": "Wout Weghorst",
+      "image":"https://img.a.transfermarkt.technology/portrait/header/228645-1666363510.png?lm=1",
+      "goal":8
+    },
+    {
+      "id": 12,
+      "teamId": 3,
+      "playerName": "Nathan Redmond",
+      "image":"https://img.a.transfermarkt.technology/portrait/header/129078-1666280539.png?lm=1",
+      "goal":5
+    },
+    {
+      "id": 13,
+      "teamId": 4,
+      "playerName": "Younes Belhanda",
+      "image":"https://img.a.transfermarkt.technology/portrait/header/118022-1665477222.jpg?lm=1",
+      "goal":11
+    },
+    {
+      "id": 14,
+      "teamId": 4,
+      "playerName": "Badou Ndiaye",
+      "image":"https://img.a.transfermarkt.technology/portrait/header/211325-1665476964.jpg?lm=1",
+      "goal":8
+    },
+    {
+      "id": 15,
+      "teamId": 4,
+      "playerName": "Henry Onyekuru",
+      "image":"https://img.a.transfermarkt.technology/portrait/header/380415-1665477336.jpg?lm=1",
+      "goal":8
+    },
+    {
+      "id": 16,
+      "teamId": 4,
+      "playerName": "Cherif Ndiaye",
+      "image":"https://img.a.transfermarkt.technology/portrait/header/480705-1612911023.jpeg?lm=1",
+      "goal":8
+    },
+    {
+      "id": 17,
+      "teamId": 5,
+      "playerName": "Danijel Aleksic",
+      "image":"https://img.a.transfermarkt.technology/portrait/header/48119-1669377139.jpg?lm=1",
+      "goal":8
+    },
+    {
+      "id": 18,
+      "teamId": 5,
+      "playerName": "Serdar Gürler",
+      "image":"https://img.a.transfermarkt.technology/portrait/header/98512-1669377471.jpg?lm=1",
+      "goal":6
+    },
+    {
+      "id": 19,
+      "teamId": 5,
+      "playerName": "Deniz Türüç",
+      "image":"https://img.a.transfermarkt.technology/portrait/header/216662-1669377077.jpg?lm=1",
+      "goal":6
+    },
+    {
+      "id": 20,
+      "teamId": 5,
+      "playerName": "Youssouf Ndayishimiye",
+      "image":"https://img.a.transfermarkt.technology/portrait/header/674612-1667045688.png?lm=1",
+      "goal":4
+    },
+    {
+      "id": 21,
+      "teamId": 6,
+      "playerName": "Mahmoud Trezeguet",
+      "image":"https://img.a.transfermarkt.technology/portrait/header/234189-1644332670.png?lm=1",
+      "goal":10
+    },
+    {
+      "id": 22,
+      "teamId": 6,
+      "playerName": "Anastasios Bakasetas",
+      "image":"https://img.a.transfermarkt.technology/portrait/header/162571-1630525354.png?lm=1",
+      "goal":7
+    },
+    {
+      "id": 23,
+      "teamId": 6,
+      "playerName": "Maxi Gomez",
+      "image":"https://img.a.transfermarkt.technology/portrait/header/396894-1663875564.png?lm=1",
+      "goal":5
+    },
+    {
+      "id": 24,
+      "teamId": 6,
+      "playerName": "Enis Bardhi",
+      "image":"https://img.a.transfermarkt.technology/portrait/header/245014-1663875874.png?lm=1",
+      "goal":5
+    },
+    {
+      "id": 25,
+      "teamId": 7,
+      "playerName": "Mame Diouf",
+      "image":"https://img.a.transfermarkt.technology/portrait/header/62049-1665567539.jpg?lm=1",
+      "goal":9
+    },
+    {
+      "id": 26,
+      "teamId": 7,
+      "playerName": "Muhammet Demir",
+      "image":"https://img.a.transfermarkt.technology/portrait/header/83560-1673390236.png?lm=1",
+      "goal":6
+    },
+    {
+      "id": 27,
+      "teamId": 7,
+      "playerName": "Soner Dikmen",
+      "image":"https://img.a.transfermarkt.technology/portrait/header/291750-1665566960.jpg?lm=1",
+      "goal":5
+    },
+    {
+      "id": 28,
+      "teamId": 7,
+      "playerName": "Alejandro Pozuelo",
+      "image":"https://img.a.transfermarkt.technology/portrait/header/188853-1645890789.jpg?lm=1",
+      "goal":3
+    }
+   
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "teamName": "Galatasaray"
+     
+    },
+    {
+      "id": 2,
+      "teamName": "Fenerbahçe"
+     
+    },
+    {
+      "id": 3,
+      "teamName": "Beşiktaş"
+     
+    },
+    {
+      "id": 4,
+      "teamName": "Adana Demirspor"
+    
+    },
+    {
+      "id": 5,
+      "teamName": "Başakşehir"
+     
+    },
+    {
+      "id": 6,
+      "teamName": "Trabzonspor"
+     
+    },
+    {
+      "id": 7,
+      "teamName": "Konyaspor"
+     
+    }
+  ]
+}
