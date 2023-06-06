@@ -14,3 +14,5 @@
 -> Gün sonu ödevi. API yazıp listeleme ve filtreleme işlemleri yaptık.
 7) againproject
 -> Sepete ekle/sil, adet arttır, iletişim bilgileri ekle ve profilde yazdır, file upload vs işlemler yapıldı.
+8) blogsitesi
+-> Kategori ve blog ekleme ve eklenen verilerin json dosyasına yazılması işlemleri yapıldı.
