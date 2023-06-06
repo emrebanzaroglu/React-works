@@ -1,0 +1,107 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "title": "C#",
+      "image": "https://miro.medium.com/v2/resize:fit:750/format:webp/1*ymVNbsdd7KxHXHC4-LP7kw.png",
+      "desc": "C# (C Sharp), Microsoft tarafından geliştirilen, güçlü ve esnek bir programlama dilidir. C# ile yazılan uygulamalar, Windows tabanlı sistemlerde mükemmel bir performans sergilerken, aynı zamanda birden fazla platformda da çalışabilirler. Bu nedenle, C# genellikle oyun geliştirme, masaüstü uygulamaları, web tabanlı uygulamalar ve mobil uygulamalar gibi birçok alanda tercih edilen bir dildir."
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "title": "JavaScript",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png?20120221235433",
+      "desc": "JavaScript (JS), web tarayıcılarında çalışan ve dinamik web sayfaları oluşturmak için kullanılan bir programlama dilidir. JS, HTML ve CSS ile birlikte kullanılarak kullanıcı etkileşimleri, veri işleme ve web uygulamalarının geliştirilmesi gibi birçok farklı alanı kapsayan geniş bir kullanım yelpazesine sahiptir."
+    },
+    {
+      "id": 3,
+      "categoryId": 1,
+      "title": "React",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/180px-React-icon.svg.png",
+      "desc": "React, kullanıcı arayüzü oluşturmak için geliştirilmiş bir JavaScript kütüphanesidir ve bileşen tabanlı bir yaklaşımla çalışır. React, sanal DOM (Document Object Model) kullanarak performansı artırır ve verimli bir şekilde güncelleme yapabilme yeteneği sayesinde büyük ve karmaşık uygulamalarda tercih edilen bir seçenektir."
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "title": "HTML",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png",
+      "desc": "HTML (HyperText Markup Language), web sayfalarının yapısını tanımlayan bir işaret dilidir ve tarayıcılar tarafından yorumlanarak içerikleri görüntülemek için kullanılır. HTML, etiketler kullanarak metinleri, resimleri, bağlantıları ve diğer içerikleri düzenlemek ve yapılandırmak için kullanılan temel bir araçtır."
+    },
+    {
+      "id": 5,
+      "categoryId": 1,
+      "title": "CSS",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png",
+      "desc": "CSS (Cascading Style Sheets), web sayfalarının görünümünü ve düzenini kontrol etmek için kullanılan bir stil dilidir. CSS, HTML'e uygulanarak metinleri, renkleri, kenarlıkları, arka planları ve diğer görsel öğeleri tasarlama ve özelleştirme imkanı sağlar."
+    },
+    {
+      "id": 6,
+      "categoryId": 2,
+      "title": "Tuzlu Kurabiye",
+      "image": "https://cdn.yemek.com/mnresize/1250/833/uploads/2021/12/lokmalik-tuzlu-kurabiye-hilal.jpg",
+      "desc": "Tuzlu kurabiye, tuzlu atıştırmalıklar arasında yer alan lezzetli bir tariftir. Un, tereyağı, peynir, tuz ve baharatların karıştırılıp yoğrulmasıyla hazırlanan hamurun şekil verilip fırında pişirilmesiyle enfes tuzlu kurabiyeler elde edebilirsiniz."
+    },
+    {
+      "id": 7,
+      "categoryId": 2,
+      "title": "Islak Kek",
+      "image": "https://cdn.yemek.com/mnresize/940/940/uploads/2019/03/kusursuz-islak-kek-yemekcom.jpg",
+      "desc": "Islak kek, yumuşak ve nemli bir dokuya sahip olan lezzetli bir tatlıdır. Kakao, un, şeker, yumurta, süt ve sıvı yağ gibi malzemelerin karıştırılıp fırında pişirilmesiyle hazırlanan ıslak kek, üzerine çikolata sosu veya pudra şekeri serpilerek servis edilebilir."
+    },
+    {
+      "id": 8,
+      "categoryId": 3,
+      "title": "Ofsayt",
+      "image": "http://4.bp.blogspot.com/-uZZZ3MzAWmQ/T04EWIenu4I/AAAAAAAABNY/Gsm3txnBI7Q/s320/ofsayt1.jpg",
+      "desc": "Ofsayt, futbolda hücum oyuncusunun topa pas verildiğinde kale çizgisiyle son savunma oyuncusu arasında olması durumudur."
+    },
+    {
+      "id": 9,
+      "categoryId": 3,
+      "title": "Kontrpiye",
+      "image": "https://i3.posta.com.tr/i/posta/75/0x410/617333a445d2a0b2540e84b6.jpg",
+      "desc": "Kontrpiye, futbolda hızlı bir şekilde savunmadan hücuma geçiş yaparak, rakip takımın savunmasının henüz organize olmadığı anlarda yakalama veya skor pozisyonu yaratma stratejisidir."
+    },
+    {
+      "id": 10,
+      "categoryId": 4,
+      "title": "Anime Film",
+      "image": "https://cdn.kayiprihtim.com/wp-content/uploads/2023/05/en-iyi-anime-filmleri.jpg",
+      "desc": "Anime filmler, Japonya'da üretilen ve çeşitli türlerdeki hikayeleri etkileyici görsel stil ve derinlikli anlatımla izleyicilere sunan animasyon yapımlardır."
+    },
+    {
+      "id": 11,
+      "categoryId": "6",
+      "title": "asdasd",
+      "image": "WhatsApp Image 2023-06-04 at 17.35.23.jpeg",
+      "desc": "asdasd"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Yazılım"
+    },
+    {
+      "id": 2,
+      "categoryName": "Yemek Tarifi"
+    },
+    {
+      "id": 3,
+      "categoryName": "Futbol"
+    },
+    {
+      "id": 4,
+      "categoryName": "Film"
+    },
+    {
+      "id": 5,
+      "categoryName": "İnşaat"
+    },
+    {
+      "id": 6,
+      "categoryName": "Ticaret"
+    }
+  ]
+}
