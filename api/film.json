@@ -1,0 +1,121 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Science Fiction"  
+    },
+    {
+      "id": 2,
+      "categoryName": "Drama"
+    },
+    {
+      "id": 3,
+      "categoryName": "Comedy"
+    }, 
+    {
+      "id": 4,
+      "categoryName": "Action"
+    }, 
+    {
+      "id": 5,
+      "categoryName": "Horror"
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "movieName": "Interstellar",
+      "categoryId": 1,
+      "rating": 8.6,
+      "url": "https://www.youtube.com/embed/zSWdZVtXT7E"
+    },
+    {
+      "id": 2,
+      "movieName": "Inception",
+      "categoryId": 1,
+      "rating": 8.8,
+      "url": "https://www.youtube.com/embed/vVJeYMRam0o"
+
+    },
+    {
+      "id": 3,
+      "movieName": "The Shawshank Redemption",
+      "categoryId": 2,
+      "rating": 9.3,
+      "url": "https://www.youtube.com/embed/b_sAEfB9aTA"
+    }
+    ,
+    {
+      "id": 4,
+      "movieName": "The Adam Project",
+      "categoryId": 2,
+      "rating": 8.6,
+      "url": "https://www.youtube.com/embed/IE8HIsIrq4o"
+    }
+    ,
+    {
+      "id": 5,
+      "movieName": "MoonFall",
+      "categoryId": 3,
+      "rating": 8.5,
+      "url": "https://www.youtube.com/embed/onaXxMAdeJ0"
+    }
+    ,
+    {
+      "id": 6,
+      "movieName": "Matrix",
+      "categoryId": 3,
+      "rating": 9.0,
+      "url": "https://www.youtube.com/embed/Z2eCmhBgsyI"
+    }
+    ,
+    {
+      "id": 7,
+      "movieName": "In the Heart of the Sea ",
+      "categoryId": 4,
+      "rating": 9.3,
+      "url": "https://www.youtube.com/embed/K-H35Mpj4uk"
+    }
+    ,
+    {
+      "id": 8,
+      "movieName": "Killers of the Flower Moon",
+      "categoryId": 5,
+      "rating": 9.4,
+      "url": "https://www.youtube.com/embed/EG0si5bSd6I"
+    }
+    ,
+    {
+      "id": 9,
+      "movieName": "BlackBerry",
+      "categoryId": 5,
+      "rating": 6.7,
+      "url": "https://www.youtube.com/embed/fOj0lRfKiVE"
+    }
+    ,
+    {
+      "id": 10,
+      "movieName": " Succession",
+      "categoryId": 3,
+      "rating": 7.2,
+      "url": "https://www.youtube.com/embed/OzYxJV_rmE8"
+    }
+    ,
+    {
+      "id":11,
+      "movieName": " Never Have I Ever",
+      "categoryId": 2,
+      "rating": 6.7,
+      "url": "https://www.youtube.com/embed/DGy4842HYf8"
+    }
+    ,
+    {
+      "id": 12,
+      "movieName": "Barry",
+      "categoryId": 5,
+      "rating": 6.3,
+      "url": "https://www.youtube.com/embed/M6TZdk1t8Zo"
+    }
+  ]
+  
+}
