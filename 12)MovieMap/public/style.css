@@ -1,0 +1,19 @@
+.hoverable-card {
+  position: static !important;
+    transition: transform 0.3s;
+  }
+  
+  .hoverable-card:hover {
+
+    transform: scale(1.5);
+  }
+
+  .hoverable-frame {
+    position: static !important;
+      transition: transform 0.3s;
+    }
+    
+    .hoverable-frame:hover {
+      margin-bottom: 20px;
+      transform: scale(1.5);
+    }
